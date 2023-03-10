@@ -1,0 +1,10 @@
+,suggestion_external_id_vod_c,ownerid,title_vod__c,record_type_name_vod__c,posted_date_vod__c,expiration_date_vod__c,account_priority_score_vod__c,priority_vod__c,email_template_id_vod__c,email_template_vault_id_vod__c,email_template_vod__c,reason_vod__c,account_vod__c,display_dismiss_vod__c,display_mark_as_complete_vod__c,suggestion_survey_vod__c,display_score_vod__c,no_homepage_vod__c,product_external_ID,department,salesforce_code
+0,12345,123,noTitle,suggestions,3022021,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,marketing,54321
+1,12345,123,noTitle,suggestions,3022022,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,marketing,54321
+2,12345,123,noTitle,suggestions,3022023,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,marketing,54321
+3,12345,123,noTitle,suggestions,3022024,3022022,1,2,body,body,body,no reason,123456,no,yes,survey says,100,url,123,medical,54321
+4,12345,123,noTitle,suggestions,3022022,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,marketing,54321
+5,12345,123,noTitle,suggestions,3022022,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,marketing,54321
+6,12345,123,noTitle,suggestions,3022022,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,medical,54321
+7,12345,123,noTitle,suggestions,3022029,3022022,1,2,body,body,body,no reason,12345,no,yes,survey says,100,url,123,medical,54321
+8,12345,123,noTitle,suggestions,3022029,3022022,1,2,body,body,body,no reason,123457,no,yes,survey says,100,url,123,marketing,54321
