@@ -3,8 +3,8 @@ from os.path import basename
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 
-sender = 'barb.gordon@bcforward.com'
-receiver = 'barb.gordon@bcforward.com'
+sender = 'anemail@someone.com'
+receiver = 'anemail@someone.com'
 
 msg = MIMEMultipart()
 
